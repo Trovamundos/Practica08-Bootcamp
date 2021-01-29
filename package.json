@@ -1,0 +1,12 @@
+{
+  "name": "laboratorio-agm-modulo-8",
+  "version": "1.0.0",
+  "description": "Laboratorio del modulo 8npm ",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrés",
+  "license": "ISC"
+}
